@@ -1,0 +1,38 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.2.1",
+    "@commitlint/config-conventional": "^19.1.0",
+    "@kevinmarrec/nuxt-pwa": "^0.17.0",
+    "@pinia-plugin-persistedstate/nuxt": "^1.0.0",
+    "@tailwindcss/typography": "^0.5.8",
+    "@types/feather-icons": "^4.29.0",
+    "@types/quill": "^2.0.9",
+    "@vueuse/core": "^10.1.2",
+    "@vueuse/nuxt": "^10.1.2",
+    "autoprefixer": "^10.4.13",
+    "husky": "^9.0.7",
+    "nuxt": "3.11.2",
+    "pinia": "^2.0.23",
+    "postcss": "^8.4.19",
+    "sass": "^1.56.1",
+    "tailwindcss": "^3.2.4"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.5.1",
+    "@tailwindcss/forms": "^0.5.7",
+    "@vercel/analytics": "^1.0.0",
+    "@vue-flow/core": "^1.33.6",
+    "dayjs": "^1.11.11",
+    "feather-icons": "^4.29.0",
+    "vue-tailwind-datepicker": "^1.7.3",
+    "vue3-tailwind": "^0.3.4"
+  }
+}
