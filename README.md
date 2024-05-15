@@ -1,5 +1,7 @@
 # nuxt-etl
 
-# npm install
+`install`
+- npm install
 
-# npm run dev
+`run`
+-  npm run dev
